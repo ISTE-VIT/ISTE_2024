@@ -105,11 +105,11 @@ Administrative Dashboard
 
 🚀 Quick Setup Guide
 bash# Clone the repository
-git clone https://github.com/Harsh-1-0/ISTE_Website_Fontend
+git clone https://github.com/ISTE-VIT/ISTE_2024
 
 # Navigate to project directory
 
-cd ISTE_Website_Fontend
+cd ISTE_2024
 
 # Install dependencies
 
